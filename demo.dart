@@ -7,6 +7,6 @@ void main()
 
   print(202);
 
-  print(4 * 2);
+  print(4 * 2)
 
 }
